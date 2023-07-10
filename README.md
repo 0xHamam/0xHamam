@@ -14,5 +14,5 @@ Penetration Tester | Bug Hunter | Soc Analyst | Networ Security Engineer
 
 :books: I'm currently learning all about IT and Security.
   
-- 💬 ask me about anything, i am happy to help;<br>
+- 💬 Ask me about anything, I am happy to help;<br>
 <a href="https://linkedin.com/in/hamam-pentester/" target="_blank"> <img src="https://img.shields.io/badge/-Mahmoud%20Hamam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
