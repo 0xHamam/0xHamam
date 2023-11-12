@@ -6,7 +6,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 ### I'm Mahmoud Hamam
-Penetration Tester | Bug Hunter | Soc Analyst | Networ Security Engineer 
+Penetration Tester | Bug Hunter | Network Security Engineer 
 
 :computer: I'm Pentester.
 
