@@ -17,18 +17,25 @@
 - 📚 Lifelong learner in IT & Security.
 - 💡 Believer in sharing knowledge and empowering others.
 
-> "The best way to predict the future is to invent it." – Alan Kay
+> "Security is not a product, but a process. It’s about continuously learning, adapting, and defending." – Troy Hunt
 
 ---
 
 ### 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Fortinet](https://img.shields.io/badge/-Fortinet-FF0000?style=flat-square&logo=fortinet&logoColor=white)
+![DarkAtlas](https://img.shields.io/badge/DarkAtlas-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUg...)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Springdel](https://img.shields.io/badge/Springdel-0055FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUg...)
+![SOTI MobiControl](https://img.shields.io/badge/SOTI%20MobiControl-0057A8?style=for-the-badge&logo=data:image/png;base64,<YOUR_BASE64_HERE>)![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Nessus-0091D5?style=for-the-badge&logo=tenable&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
+
 
 ---
 
